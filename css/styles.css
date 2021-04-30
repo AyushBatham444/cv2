@@ -1,0 +1,57 @@
+body
+{
+  background-color: lemonchiffon;
+}
+hr
+{
+border-color: grey;
+border-style: dotted none none none;
+border-width: 10px;
+
+
+width: 8%;
+
+
+}
+h1
+{
+
+  font-style: oblique;
+color: blue;
+}
+.school
+{
+
+  color: green;
+}
+.mycontacts
+{
+
+  color: black;
+}
+.highschoolmarks
+{
+
+  color: orange;
+}
+.hobbies
+{
+
+  color: red;
+}
+.details
+{
+color: brown;
+}
+.my
+{
+color: violet;
+}
+.im
+{
+  background-color: red;
+}
+img:hover
+{
+  background-color: gold;
+}
